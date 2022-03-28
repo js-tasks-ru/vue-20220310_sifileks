@@ -29,4 +29,3 @@ const ComponentOptions = {
 
 const app = createApp(ComponentOptions);
 const vm = app.mount('#app');
-window.vm = vm;
